@@ -5,7 +5,6 @@
 🚀 Passionate about crafting **scalable**, **user-centric** web applications with **React.js**, **Next.js**, **Node.js**, **TypeScript**, and **Python**.  
 I thrive on solving interesting problems, leading teams, and building digital experiences that truly shine ✨.
 
----
 
 ## 🔭 About Me
 
@@ -14,7 +13,6 @@ I thrive on solving interesting problems, leading teams, and building digital ex
 - I stay curious—exploring AI-powered tools (Generative AI, Google Gemini, OpenAI/ChatGPT), LLM integrations, and DevOps/automation 🧬⚙️.  
 - Open to collaborating on **Full-Stack**, **AI-driven**, or **SaaS** projects — let’s build something awesome! ✨💡
 
----
 
 ## 🧠 Core Expertise
 
@@ -33,7 +31,6 @@ Docker 🐳 · AWS ☁️ · DigitalOcean 🌊 · CI/CD ⚙️ · NGINX 🧭 · 
 **Other Tools & Areas**  
 Microservices 🧱 · Reverse Engineering 🕵️ · Web Scraping 🕸️ · ChatGPT / OpenAI APIs 🤖
 
----
 
 <!--
 **meetpogul/meetpogul** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
