@@ -1,36 +1,34 @@
 # Hi there 👋
 
-💻 **Meet Pogul | Full Stack Developer**
+💻 **Meet Pogul | AI Software Engineer & Engineering Lead**
 
-🚀 Passionate about crafting **scalable**, **user-centric** web applications with **React.js**, **Next.js**, **Node.js**, **TypeScript**, and **Python**.  
-I thrive on solving interesting problems, leading teams, and building digital experiences that truly shine ✨.
+🌐 Portfolio: [meet.pogul.in](https://meet.pogul.in)
 
+🚀 Building **Generative AI** and **LLM-powered** applications — RAG systems, AI agents, and workflow automation — on a full-stack foundation of **React.js**, **Next.js**, **Node.js**, **TypeScript**, and **Python**.
+I thrive on solving interesting problems and building digital experiences that truly shine ✨.
 
 ## 🔭 About Me
 
-- I’m a software engineer with hands-on experience in full-stack development, project leadership, and cloud architecture.  
-- I’ve worked on many live projects, managed cross-functional teams, implemented **CI/CD workflows**, and built robust solutions on **AWS** and other platforms ☁️.  
-- I stay curious—exploring AI-powered tools (Generative AI, Google Gemini, OpenAI/ChatGPT), LLM integrations, and DevOps/automation 🧬⚙️.  
-- Open to collaborating on **Full-Stack**, **AI-driven**, or **SaaS** projects — let’s build something awesome! ✨💡
-
+- 4.5+ years of experience spanning full-stack development and Generative AI engineering.
+- I build RAG pipelines, AI agents, document processing, and workflow automation using **OpenAI**, **Gemini**, **LangChain**, and **Pinecone**, on cloud infrastructure across **AWS** and **DigitalOcean** ☁️.
+- Open to collaborating on **AI-driven**, **Full-Stack**, or **SaaS** projects — let's build something awesome! ✨💡
 
 ## 🧠 Core Expertise
 
-**Languages & Frameworks**  
-React.js ⚛️ · Node.js 🟢 · JavaScript ✨ · Next.js ⤴️ · TypeScript 🔷 · Python 🐍 · HTML5 📄 · CSS3 🎨
+**AI & Generative AI**
+LLMs 🤖 · RAG 🧠 · AI Agents 🕹️ · OpenAI API · Gemini API · LangChain 🦜 · Pinecone 🌲 · Prompt Engineering ✍️
 
-**APIs & Communication**  
-REST API 🔁 · GraphQL 🧩 · WebSocket (Socket.io) 🔌
+**Languages & Frameworks**
+React.js ⚛️ · Node.js 🟢 · Next.js ⤴️ · TypeScript 🔷 · Python 🐍 · JavaScript ✨
 
-**Databases**  
-MongoDB 🍃 · PostgreSQL 🐘 · MySQL 🐬 · Firebase 🔥
+**Backend & APIs**
+FastAPI · Django · Express.js · REST API 🔁 · GraphQL 🧩 · WebSocket (Socket.io) 🔌
 
-**DevOps & Infra**  
-Docker 🐳 · AWS ☁️ · DigitalOcean 🌊 · CI/CD ⚙️ · NGINX 🧭 · Apache 🛡️
+**Databases**
+PostgreSQL 🐘 · MongoDB 🍃 · MySQL 🐬 · Redis · Firebase 🔥
 
-**Other Tools & Areas**  
-Microservices 🧱 · Reverse Engineering 🕵️ · Web Scraping 🕸️ · ChatGPT / OpenAI APIs 🤖
-
+**DevOps & Infra**
+Docker 🐳 · AWS ☁️ · DigitalOcean 🌊 · CI/CD ⚙️ · Vercel
 
 <!--
 **meetpogul/meetpogul** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
