@@ -15,19 +15,19 @@ I thrive on solving interesting problems and building digital experiences that t
 
 ## 🧠 Core Expertise
 
-**AI & Generative AI**
+**AI & Generative AI**<br>
 LLMs 🤖 · RAG 🧠 · AI Agents 🕹️ · OpenAI API · Gemini API · LangChain 🦜 · Pinecone 🌲 · Prompt Engineering ✍️
 
-**Languages & Frameworks**
+**Languages & Frameworks**<br>
 React.js ⚛️ · Node.js 🟢 · Next.js ⤴️ · TypeScript 🔷 · Python 🐍 · JavaScript ✨
 
-**Backend & APIs**
+**Backend & APIs**<br>
 FastAPI · Django · Express.js · REST API 🔁 · GraphQL 🧩 · WebSocket (Socket.io) 🔌
 
-**Databases**
+**Databases**<br>
 PostgreSQL 🐘 · MongoDB 🍃 · MySQL 🐬 · Redis · Firebase 🔥
 
-**DevOps & Infra**
+**DevOps & Infra**<br>
 Docker 🐳 · AWS ☁️ · DigitalOcean 🌊 · CI/CD ⚙️ · Vercel
 
 <!--
